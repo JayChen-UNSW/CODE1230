@@ -1,8 +1,7 @@
 body{
 	background: orange;
-	color: ;
 	text-align: center;
-	font-family: Helvetics;
+	font-family: Helvetica;
 	font-size:24px;
 }
 
@@ -42,5 +41,5 @@ footer{
 }
 .topnav a:hover{
 	background-color:blue;
-	color:;
+	color:blue;
 }
